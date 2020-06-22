@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": {"type": "name","properties": {"name": "EPSG:3857"}},
+"features": [
+{ "type": "Feature",  "properties": { "name": "1 m3/h" },"geometry": { "type": "Point", "coordinates": [ 778.75537109375, -145.267578125 ]}},
+{ "type": "Feature",  "properties": { "name": "1 m3/h" },"geometry": { "type": "Point", "coordinates": [ 778.75537109375, -173.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 976.75537109375, -771.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 976.75537109375, -799.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 31.75537109375, -72.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 121.75537014007568, -26.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 21.582517623901367, -26.267578125 ]}},
+{ "type": "Feature",  "properties": { "name": "1 m3/h" },"geometry": { "type": "Point", "coordinates": [ 350.75537109375,  -26.267578125 ]}},
+{ "type": "Feature",  "properties": { "name": "1 m3/h" },"geometry": { "type": "Point", "coordinates": [ 248.18310546875, -26.267578125 ]}},
+{ "type": "Feature",  "properties": { "name": "1 m3/h" },"geometry": { "type": "Point", "coordinates": [ 31.75537109375, -114.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 31.75537109375, -162.267578125 ]}},
+{ "type": "Feature", "properties": { "name": "1 m3/h" }, "geometry": { "type": "Point", "coordinates": [ 133.75537000596523, -114.267578125 ]}},
+]
+}
+

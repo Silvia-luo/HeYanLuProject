@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "1 m3/h" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [785.75537109375, -117.267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "1.183 t/m3" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [778.75537109375, -145.267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "7.4 bar" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [778.75537109375, -173.267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "1 m3/h" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [976.75537109375, -771.267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "1.183 t/m3" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [976.75537109375, -799.267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "6.15bar" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.75537109375, -72.267578125]
+      }
+    }
+  ]
+}

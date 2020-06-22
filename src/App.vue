@@ -1,19 +1,21 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <!-- <router-link to="/">HelloWorld</router-link>|
+    <router-link to="/gismap">GisMap</router-link>-->
+    <gismap />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import gismap from './components/gismap.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    // HelloWorld,
+    gismap
+  },
+};
 </script>
 
 <style>
@@ -23,6 +25,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
+}
+.tygismap {
+  width: 100%;
+  height: 100%;
 }
 </style>
